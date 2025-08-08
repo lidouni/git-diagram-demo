@@ -1,0 +1,3 @@
+diagram:
+  output: README.md
+  include_branches: true
